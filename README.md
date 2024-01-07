@@ -1,4 +1,3 @@
-# animatsiya
 
 A new Flutter project.
 ![photo_2024-01-07_22-09-57](https://github.com/shaxbozjon-dev/crud/assets/127027778/818933c3-84d6-4e7c-83f2-ed93aaa93b52)
